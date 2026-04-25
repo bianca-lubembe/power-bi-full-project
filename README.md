@@ -11,5 +11,5 @@ This project analyzes a global survey of data and tech professionals, uncovering
 ## Tools Used
 This project was built entirely in Power BI with  with data cleaning performed in Power Query Editor.
 
-## Dasboard Preview
+## Dashboard Preview
 ![Dashboard Preview](Data_Professional_Survey.png)
